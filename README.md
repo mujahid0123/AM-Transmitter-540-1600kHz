@@ -75,7 +75,7 @@ Approximate total cost: **BDT 465**
 ---
 
 ## 📷 Project Images
-(![IMG_20221128_034453](https://github.com/user-attachments/assets/f7510996-6392-41e7-afa3-278267f4e08c)) 
+![IMG_20221128_034453](https://github.com/user-attachments/assets/f7510996-6392-41e7-afa3-278267f4e08c)
 ![WhatsApp Image 2026-01-05 at 10 39 26 PM](https://github.com/user-attachments/assets/df99d5f4-106f-4623-a5e4-2671009f0ab0)
 
 ---
